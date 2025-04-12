@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Udit Jadon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udit-Jadon)](https://github.com/Udit-Jadon/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Udit-Jadon&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 <!--
 **Udit-Jadon/udit-jadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
