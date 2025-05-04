@@ -2,6 +2,12 @@
 [![Udit Jadon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udit-Jadon)](https://github.com/Udit-Jadon/github-readme-stats)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Udit-Jadon&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
+ [![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=black)](https://tailwindcss.com/)
+
 <!--
 **Udit-Jadon/udit-jadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
